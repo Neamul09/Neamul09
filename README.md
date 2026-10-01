@@ -1,91 +1,107 @@
 <div align="center">
 
-# 💫 Md. Neamul Morshed Neon
-### Aspiring CS Engineer • Builder • Founder @ CholoSikhi • Web & Mobile Developer
+<img src="https://img.shields.io/badge/NETFLIX-ORIGINAL-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Original" height="32" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Neamul09">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Neon+(Md.+Neamul+Morshed);Founder+%40+CholoSikhi+%F0%9F%9A%80;Aspiring+CS+Engineer+%26+Builder;Web+%26+Mobile+Developer;Duolingo-style+Gamified+Coding+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=30&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&random=false&width=650&height=50&lines=NEON+ORIGINAL+%E2%80%A2+NOW+STREAMING;FOUNDER+%40+CHOLOSIKHI;ASPIRING+CS+ENGINEER+%26+BUILDER;WEB+%26+MOBILE+DEVELOPER;DUOLINGO-STYLE+GAMIFIED+CODING" alt="Netflix Style Typing SVG" />
 </a>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔴_MATCH-99%25-E50914?style=flat-square" alt="Match" />
+  <img src="https://img.shields.io/badge/YEAR-2026-333333?style=flat-square" alt="Year" />
+  <img src="https://img.shields.io/badge/RATING-TV--MA_(Master_of_Apps)-333333?style=flat-square" alt="Rating" />
+  <img src="https://img.shields.io/badge/QUALITY-ULTRA_HD_4K-E50914?style=flat-square" alt="Quality" />
+  <img src="https://img.shields.io/badge/GENRE-EDTECH_%7C_FULL--STACK-333333?style=flat-square" alt="Genre" />
+</p>
 
-[![Startup](https://img.shields.io/badge/Primary_Focus-CholoSikhi%20🚀-0ea5e9?style=for-the-badge&logo=rocket&logoColor=white)](https://cholosikhi.com)
-[![College](https://img.shields.io/badge/College-New_Govt._Degree_College,_Rajshahi-8b5cf6?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/Neamul09)
-[![Location](https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-10b981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Neamul09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neamul--morshed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamul-morshed)
+### 📺 Who's Watching?
+<p align="center">
+  <a href="https://cholosikhi.com"><img src="https://img.shields.io/badge/%5B🔴_Neon%5D-Founder_%40_CholoSikhi-E50914?style=for-the-badge" alt="Founder" /></a>
+  <a href="https://github.com/Neamul09"><img src="https://img.shields.io/badge/%5B⚡_Neon%5D-Aspiring_CS_Engineer-222222?style=for-the-badge" alt="Engineer" /></a>
+  <a href="https://github.com/Neamul09"><img src="https://img.shields.io/badge/%5B🎓_Neon%5D-New_Govt._Degree_College-222222?style=for-the-badge" alt="Student" /></a>
+  <a href="https://www.linkedin.com/in/neamul-morshed"><img src="https://img.shields.io/badge/%5B💼_Neon%5D-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
 </div>
 
-## 👨‍💻 About Me
+## 🎬 Today's Top Billboard: A Neon Original
 
-```yaml
-name: Md. Neamul Morshed Neon
-handle: Neamul09
-roles:
-  - Aspiring CS Engineer
-  - Builder
-  - Founder @ CholoSikhi
-  - Web & Mobile Developer
-education: New Govt. Degree College, Rajshahi
-primary_project: "CholoSikhi (bilingual gamified interactive platform for learning programming in Duolingo Style)"
-interests: ["Full-Stack Engineering", "Mobile Development", "Interactive EdTech", "AI Tools"]
-```
+<div align="center">
+  <h1>🍿 CHOLOSIKHI</h1>
+  <p><strong>Season 1 • Now Streaming Worldwide • Interactive Gamified Learning</strong></p>
 
-- 🚀 **Founder of [CholoSikhi](https://cholosikhi.com)** & **[py.cholosikhi](https://py.cholosikhi.com)** — A bilingual gamified interactive platform for learning programming in Duolingo style, featuring interactive lessons, DSA visualizers, XP streaks, and practice sandboxes.
-- 🎓 **Education**: New Govt. Degree College, Rajshahi.
-- 🛠️ **Passionate Builder**: Crafting high-performance web applications, modern mobile software, and AI-driven utilities.
+  <p>
+    <a href="https://cholosikhi.com">
+      <img src="https://img.shields.io/badge/▶_PLAY_PLATFORM-cholosikhi.com-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Platform" />
+    </a>
+    <a href="https://py.cholosikhi.com">
+      <img src="https://img.shields.io/badge/ℹ_MORE_INFO-py.cholosikhi.com-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="More Info" />
+    </a>
+    <a href="https://github.com/Neamul09/cholosikhi">
+      <img src="https://img.shields.io/badge/📦_SOURCE_CODE-GitHub_Repo-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
+    </a>
+  </p>
+</div>
+
+> **Synopsis:**  
+> **Founder of CholoSikhi (bilingual gamified interactive platform for learning programming in Duolingo Style).**  
+> In a landscape of traditional and overwhelming coding tutorials, one founder sets out to build an accessible, gamified universe in Bangla. Powered by interactive DSA sorting and BST visualizers, gamified XP streaks, exercise sandboxes, and cloud progression sync, CholoSikhi turns coding mastery into an addictive daily habit.
+
+- 🌟 **Creator & Architect:** Md. Neamul Morshed Neon
+- 🎓 **Education:** New Govt. Degree College, Rajshahi
+- 🏷️ **Genres:** EdTech, Gamification, Web & Mobile, Full-Stack Architecture
+- ⚡ **Production Specs:** `React 19` • `TypeScript` • `Vite` • `Tailwind CSS 4` • `Framer Motion` • `Supabase (RLS)` • `Zustand`
 
 ---
 
-## 🚀 Featured Showcases
+## 🔴 Trending Now | Top 3 Releases
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🌟 <a href="https://cholosikhi.com">CholoSikhi & py.cholosikhi</a></h3>
-      <p align="center">
-        <a href="https://cholosikhi.com"><img src="https://img.shields.io/badge/Live_Landing-cholosikhi.com-0284c7?style=flat-square&logo=vercel" alt="Live Demo" /></a>
-        <a href="https://py.cholosikhi.com"><img src="https://img.shields.io/badge/Learning_App-py.cholosikhi.com-10b981?style=flat-square&logo=googlechrome" alt="Platform" /></a>
-        <a href="https://github.com/Neamul09/cholosikhi"><img src="https://img.shields.io/badge/Repo-cholosikhi-1e293b?style=flat-square&logo=github" alt="Landing Repo" /></a>
-        <a href="https://github.com/Neamul09/py.cholosikhi"><img src="https://img.shields.io/badge/Repo-py.cholosikhi-1e293b?style=flat-square&logo=github" alt="App Repo" /></a>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🥇 #1 IN EDTECH</h3>
+        <h4><a href="https://cholosikhi.com">CholoSikhi</a></h4>
+        <a href="https://cholosikhi.com"><img src="https://img.shields.io/badge/WATCH_NOW-cholosikhi.com-E50914?style=flat-square" alt="Watch CholoSikhi" /></a>
+      </div>
+      <br/>
+      <p>
+        <strong>Duolingo-style bilingual coding ecosystem</strong> featuring live DSA visualizers, XP streaks, quizzes, and bite-sized Bangla lessons.
       </p>
       <p>
-        <strong>Founder & Architect</strong> of this <strong>bilingual gamified interactive platform for learning programming in Duolingo style</strong>. Designed to make computer science approachable with bite-sized Bangla lessons, interactive sorting & BST visualizers, gamified XP streaks, and Supabase user progression sync.
-      </p>
-      <p>
-        <code>React 19</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS 4</code> • <code>Framer Motion</code> • <code>Supabase (RLS)</code> • <code>Zustand</code>
+        <code>React 19</code> • <code>TypeScript</code> • <code>Supabase</code> • <code>Tailwind 4</code>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 <a href="https://github.com/Neamul09/chitro-AI-2.0">Chitro AI 2.0</a></h3>
-      <p align="center">
-        <a href="https://github.com/Neamul09/chitro-AI-2.0"><img src="https://img.shields.io/badge/Repo-chitro--AI--2.0-8b5cf6?style=flat-square&logo=github" alt="Chitro AI Repo" /></a>
-        <img src="https://img.shields.io/badge/Domain-Multilingual_AI_Generation-0ea5e9?style=flat-square" alt="Domain" />
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🥈 #2 IN AI TOOLS</h3>
+        <h4><a href="https://github.com/Neamul09/chitro-AI-2.0">Chitro AI 2.0</a></h4>
+        <a href="https://github.com/Neamul09/chitro-AI-2.0"><img src="https://img.shields.io/badge/VIEW_SERIES-GitHub-333333?style=flat-square&logo=github" alt="View Chitro" /></a>
+      </div>
+      <br/>
+      <p>
+        <strong>Multilingual AI Image Generator</strong> enabling cross-language prompt transformations and automated creative image generation.
       </p>
       <p>
-        <strong>Multilingual AI Image Generator</strong> enabling cross-language image generation with responsive design and intuitive creative workflows.
-      </p>
-      <p>
-        <code>AI Generation</code> • <code>Multilingual Interface</code> • <code>JavaScript</code> • <code>Web UI</code>
+        <code>AI Generation</code> • <code>Multilingual</code> • <code>JavaScript</code>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ <a href="https://github.com/Neamul09/bishwaskori">Bishwaskori</a></h3>
-      <p align="center">
-        <a href="https://github.com/Neamul09/bishwaskori"><img src="https://img.shields.io/badge/Repo-bishwaskori-059669?style=flat-square&logo=github" alt="Bishwaskori Repo" /></a>
-        <img src="https://img.shields.io/badge/Stack-Next.js_16_%2B_Supabase-0284c7?style=flat-square" alt="Stack" />
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🥉 #3 IN WEB APPS</h3>
+        <h4><a href="https://github.com/Neamul09/bishwaskori">Bishwaskori</a></h4>
+        <a href="https://github.com/Neamul09/bishwaskori"><img src="https://img.shields.io/badge/EXPLORE-GitHub-333333?style=flat-square&logo=github" alt="Explore Bishwaskori" /></a>
+      </div>
+      <br/>
+      <p>
+        <strong>Modern full-stack web application</strong> built with Next.js 16 App Router, Supabase backend, type-safe validation, and internationalization.
       </p>
       <p>
-        <strong>Full-stack web application</strong> built with modern Next.js 16 App Router architecture, featuring robust authentication, internationalization, and type-safe validation.
-      </p>
-      <p>
-        <code>Next.js 16</code> • <code>React 19</code> • <code>Supabase</code> • <code>Tailwind CSS 4</code> • <code>next-intl</code> • <code>Zod</code>
+        <code>Next.js 16</code> • <code>React 19</code> • <code>next-intl</code> • <code>Zod</code>
       </p>
     </td>
   </tr>
@@ -93,89 +109,84 @@ interests: ["Full-Stack Engineering", "Mobile Development", "Interactive EdTech"
 
 ---
 
-## 🛠️ Tech Stack & Toolbox
+## ⚡ Cast & Production Equipment (Tech Stack)
 
 <div align="center">
 
-### Languages
+### 🎞️ Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,dart,html,css&perline=7" alt="Languages" />
 </p>
 
-### Frontend & UI
+### 🎬 Frontend & Motion
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer,redux&perline=6" alt="Frontend" />
 </p>
 
-### Backend & Databases
+### 🎛️ Backend, Cloud & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,prisma&perline=4" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,prisma&perline=4" alt="Backend & Cloud" />
 </p>
 
-### Mobile, DevOps & Tools
+### 📱 Mobile & Studios
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,vercel,postman,linux&perline=7" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,vercel,postman,linux&perline=7" alt="Tools & Mobile" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Consistency
+## 📊 Box Office & Viewer Analytics
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Neamul09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Neon's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Neamul09&show_icons=true&hide_border=false&bg_color=141414&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=333333" alt="Netflix Themed Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neamul09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neamul09&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" width="98%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neamul09&layout=compact&hide_border=false&bg_color=141414&title_color=E50914&text_color=FFFFFF&border_color=333333" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 🐍 Contribution Activity Graph
+### 🐍 Daily Episode Stream (Commit Activity)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neamul09/Neamul09/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neamul09/Neamul09/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Neamul09/Neamul09/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Neamul09/Neamul09/output/github-contribution-grid-snake-dark.svg" alt="Daily Commit Stream" width="100%" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🎟️ Start Your Membership: Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/neamul-morshed" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-neamul--morshed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://cholosikhi.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-CholoSikhi.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-<a href="mailto:neamulmorshed@gmail.com">
-  <img src="https://img.shields.io/badge/Email-neamulmorshed@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/Neamul09">
-  <img src="https://img.shields.io/badge/GitHub-Neamul09-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p><strong>Unlimited code, architectural discussions, and startup collaborations.</strong></p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/neamul-morshed" target="_blank">
+    <img src="https://img.shields.io/badge/▶_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://cholosikhi.com" target="_blank">
+    <img src="https://img.shields.io/badge/▶_VISIT_CHOLOSIKHI-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CholoSikhi" />
+  </a>
+  <a href="mailto:neamulmorshed@gmail.com">
+    <img src="https://img.shields.io/badge/▶_SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Neamul09">
+    <img src="https://img.shields.io/badge/▶_GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br/>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-⭐️ From [Md. Neamul Morshed Neon](https://github.com/Neamul09)
+🍿 **Directed & Produced by [Md. Neamul Morshed Neon](https://github.com/Neamul09)**
 
 </div>
