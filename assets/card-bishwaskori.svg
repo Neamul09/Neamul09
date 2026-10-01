@@ -1,0 +1,55 @@
+<svg width="410" height="230" viewBox="0 0 410 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="c3-bg" x1="0" y1="0" x2="410" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#141414" />
+      <stop offset="50%" stop-color="#081812" />
+      <stop offset="100%" stop-color="#0a0a0a" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-heavy { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 900; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  </style>
+
+  <!-- Card Base -->
+  <rect width="410" height="230" rx="8" fill="url(#c3-bg)" stroke="#2b2b2b" stroke-width="1" />
+
+  <!-- Shield / Web Accent -->
+  <g opacity="0.12" fill="#10B981">
+    <circle cx="330" cy="90" r="70" />
+    <path d="M 330 40 L 370 60 L 370 110 Q 330 140 330 140 Q 330 140 290 110 L 290 60 Z" />
+  </g>
+
+  <!-- Badges Row -->
+  <g transform="translate(18, 16)">
+    <!-- Red N -->
+    <path d="M 0 0 L 5 0 L 5 18 L 0 18 Z" fill="#E50914" />
+    <path d="M 10 0 L 15 0 L 15 18 L 10 18 Z" fill="#E50914" />
+    <path d="M 0 0 L 15 18 L 10 18 L 0 5 Z" fill="#B81D24" />
+    <text x="22" y="14" fill="#E50914" class="font-heavy" font-size="11" letter-spacing="2">SERIES</text>
+
+    <!-- Trending Badge -->
+    <rect x="285" y="0" width="85" height="20" rx="3" fill="#E50914" />
+    <text x="327" y="14" fill="#FFFFFF" class="font-sans" font-weight="900" font-size="10.5" text-anchor="middle" letter-spacing="1">TRENDING</text>
+  </g>
+
+  <!-- Title & Description -->
+  <g transform="translate(18, 75)">
+    <text x="0" y="32" fill="#FFFFFF" class="font-heavy" font-size="28" letter-spacing="-0.5">BISHWASKORI</text>
+    <text x="0" y="54" fill="#AAAAAA" class="font-sans" font-size="12" font-weight="500">Next.js 16 + Supabase App Router</text>
+
+    <!-- Match & Specs -->
+    <g transform="translate(0, 76)">
+      <text x="0" y="12" fill="#46D369" class="font-sans" font-weight="800" font-size="12.5">95% Match</text>
+      <rect x="78" y="0" width="76" height="16" rx="2" fill="#222" stroke="#444" stroke-width="1" />
+      <text x="116" y="12" fill="#DDD" class="font-sans" font-weight="600" font-size="9.5" text-anchor="middle">Next.js 16 App</text>
+      <rect x="160" y="0" width="58" height="16" rx="2" fill="#222" stroke="#444" stroke-width="1" />
+      <text x="189" y="12" fill="#DDD" class="font-sans" font-weight="600" font-size="9.5" text-anchor="middle">i18n • Zod</text>
+    </g>
+  </g>
+
+  <!-- Netflix Progress Bar (Bottom) -->
+  <rect x="0" y="224" width="410" height="6" fill="#333333" />
+  <rect x="0" y="224" width="280" height="6" fill="#E50914" />
+</svg>
