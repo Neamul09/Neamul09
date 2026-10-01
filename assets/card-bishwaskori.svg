@@ -1,6 +1,6 @@
-<svg width="410" height="230" viewBox="0 0 410 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="410" height="235" viewBox="0 0 410 235" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="c3-bg" x1="0" y1="0" x2="410" y2="230" gradientUnits="userSpaceOnUse">
+    <linearGradient id="c3-bg" x1="0" y1="0" x2="410" y2="235" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#141414" />
       <stop offset="50%" stop-color="#081812" />
       <stop offset="100%" stop-color="#0a0a0a" />
@@ -13,13 +13,10 @@
   </style>
 
   <!-- Card Base -->
-  <rect width="410" height="230" rx="8" fill="url(#c3-bg)" stroke="#2b2b2b" stroke-width="1" />
+  <rect width="410" height="235" rx="8" fill="url(#c3-bg)" stroke="#2b2b2b" stroke-width="1" />
 
-  <!-- Shield / Web Accent -->
-  <g opacity="0.12" fill="#10B981">
-    <circle cx="330" cy="90" r="70" />
-    <path d="M 330 40 L 370 60 L 370 110 Q 330 140 330 140 Q 330 140 290 110 L 290 60 Z" />
-  </g>
+  <!-- Giant Stylized Netflix #3 Rank Outline -->
+  <text x="320" y="195" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-weight="900" font-size="140" fill="none" stroke="#1a2520" stroke-width="5" opacity="0.6">3</text>
 
   <!-- Badges Row -->
   <g transform="translate(18, 16)">
@@ -30,26 +27,32 @@
     <text x="22" y="14" fill="#E50914" class="font-heavy" font-size="11" letter-spacing="2">SERIES</text>
 
     <!-- Trending Badge -->
-    <rect x="285" y="0" width="85" height="20" rx="3" fill="#E50914" />
-    <text x="327" y="14" fill="#FFFFFF" class="font-sans" font-weight="900" font-size="10.5" text-anchor="middle" letter-spacing="1">TRENDING</text>
+    <rect x="290" y="0" width="85" height="20" rx="3" fill="#E50914" />
+    <text x="332" y="14" fill="#FFFFFF" class="font-sans" font-weight="900" font-size="10.5" text-anchor="middle" letter-spacing="1">TRENDING</text>
   </g>
 
   <!-- Title & Description -->
-  <g transform="translate(18, 75)">
-    <text x="0" y="32" fill="#FFFFFF" class="font-heavy" font-size="28" letter-spacing="-0.5">BISHWASKORI</text>
-    <text x="0" y="54" fill="#AAAAAA" class="font-sans" font-size="12" font-weight="500">Next.js 16 + Supabase App Router</text>
+  <g transform="translate(18, 70)">
+    <text x="0" y="28" fill="#FFFFFF" class="font-heavy" font-size="26" letter-spacing="-0.5">BISHWASKORI</text>
+    <text x="0" y="50" fill="#AAAAAA" class="font-sans" font-size="12" font-weight="500">Next.js 16 + Supabase App Router</text>
 
     <!-- Match & Specs -->
-    <g transform="translate(0, 76)">
-      <text x="0" y="12" fill="#46D369" class="font-sans" font-weight="800" font-size="12.5">95% Match</text>
-      <rect x="78" y="0" width="76" height="16" rx="2" fill="#222" stroke="#444" stroke-width="1" />
+    <g transform="translate(0, 68)">
+      <text x="0" y="13" fill="#46D369" class="font-sans" font-weight="800" font-size="12.5">95% Match</text>
+      <rect x="78" y="0" width="76" height="17" rx="2" fill="#222" stroke="#444" stroke-width="1" />
       <text x="116" y="12" fill="#DDD" class="font-sans" font-weight="600" font-size="9.5" text-anchor="middle">Next.js 16 App</text>
-      <rect x="160" y="0" width="58" height="16" rx="2" fill="#222" stroke="#444" stroke-width="1" />
+      <rect x="160" y="0" width="58" height="17" rx="2" fill="#222" stroke="#444" stroke-width="1" />
       <text x="189" y="12" fill="#DDD" class="font-sans" font-weight="600" font-size="9.5" text-anchor="middle">i18n • Zod</text>
+    </g>
+
+    <!-- Action Button Pill -->
+    <g transform="translate(0, 96)">
+      <rect width="135" height="28" rx="4" fill="#222222" stroke="#444444" stroke-width="1" />
+      <text x="67" y="18" fill="#FFFFFF" class="font-sans" font-weight="700" font-size="11" text-anchor="middle">★ View on GitHub</text>
     </g>
   </g>
 
   <!-- Netflix Progress Bar (Bottom) -->
-  <rect x="0" y="224" width="410" height="6" fill="#333333" />
-  <rect x="0" y="224" width="280" height="6" fill="#E50914" />
+  <rect x="0" y="229" width="410" height="6" fill="#333333" />
+  <rect x="0" y="229" width="280" height="6" fill="#E50914" />
 </svg>

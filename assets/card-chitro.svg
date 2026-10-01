@@ -1,6 +1,6 @@
-<svg width="410" height="230" viewBox="0 0 410 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="410" height="235" viewBox="0 0 410 235" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="c2-bg" x1="0" y1="0" x2="410" y2="230" gradientUnits="userSpaceOnUse">
+    <linearGradient id="c2-bg" x1="0" y1="0" x2="410" y2="235" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#141414" />
       <stop offset="50%" stop-color="#120c1e" />
       <stop offset="100%" stop-color="#0a0a0a" />
@@ -13,13 +13,10 @@
   </style>
 
   <!-- Card Base -->
-  <rect width="410" height="230" rx="8" fill="url(#c2-bg)" stroke="#2b2b2b" stroke-width="1" />
+  <rect width="410" height="235" rx="8" fill="url(#c2-bg)" stroke="#2b2b2b" stroke-width="1" />
 
-  <!-- AI Art Wave Accent -->
-  <g opacity="0.12" fill="#8B5CF6">
-    <circle cx="330" cy="90" r="70" />
-    <path d="M 270 120 Q 320 60 370 120 Z" />
-  </g>
+  <!-- Giant Stylized Netflix #2 Rank Outline -->
+  <text x="320" y="195" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-weight="900" font-size="140" fill="none" stroke="#252030" stroke-width="5" opacity="0.6">2</text>
 
   <!-- Badges Row -->
   <g transform="translate(18, 16)">
@@ -30,26 +27,32 @@
     <text x="22" y="14" fill="#E50914" class="font-heavy" font-size="11" letter-spacing="2">SERIES</text>
 
     <!-- New Release Badge -->
-    <rect x="265" y="0" width="105" height="20" rx="3" fill="#E50914" />
-    <text x="317" y="14" fill="#FFFFFF" class="font-sans" font-weight="900" font-size="10.5" text-anchor="middle" letter-spacing="1">NEW RELEASE</text>
+    <rect x="270" y="0" width="105" height="20" rx="3" fill="#E50914" />
+    <text x="322" y="14" fill="#FFFFFF" class="font-sans" font-weight="900" font-size="10.5" text-anchor="middle" letter-spacing="1">NEW RELEASE</text>
   </g>
 
   <!-- Title & Description -->
-  <g transform="translate(18, 75)">
-    <text x="0" y="32" fill="#FFFFFF" class="font-heavy" font-size="28" letter-spacing="-0.5">CHITRO AI 2.0</text>
-    <text x="0" y="54" fill="#AAAAAA" class="font-sans" font-size="12" font-weight="500">Multilingual AI Image Generator</text>
+  <g transform="translate(18, 70)">
+    <text x="0" y="28" fill="#FFFFFF" class="font-heavy" font-size="26" letter-spacing="-0.5">CHITRO AI 2.0</text>
+    <text x="0" y="50" fill="#AAAAAA" class="font-sans" font-size="12" font-weight="500">Multilingual AI Image Generator</text>
 
     <!-- Match & Specs -->
-    <g transform="translate(0, 76)">
-      <text x="0" y="12" fill="#46D369" class="font-sans" font-weight="800" font-size="12.5">97% Match</text>
-      <rect x="78" y="0" width="70" height="16" rx="2" fill="#222" stroke="#444" stroke-width="1" />
+    <g transform="translate(0, 68)">
+      <text x="0" y="13" fill="#46D369" class="font-sans" font-weight="800" font-size="12.5">97% Match</text>
+      <rect x="78" y="0" width="70" height="17" rx="2" fill="#222" stroke="#444" stroke-width="1" />
       <text x="113" y="12" fill="#DDD" class="font-sans" font-weight="600" font-size="9.5" text-anchor="middle">AI Inference</text>
-      <rect x="154" y="0" width="74" height="16" rx="2" fill="#222" stroke="#444" stroke-width="1" />
+      <rect x="154" y="0" width="74" height="17" rx="2" fill="#222" stroke="#444" stroke-width="1" />
       <text x="191" y="12" fill="#DDD" class="font-sans" font-weight="600" font-size="9.5" text-anchor="middle">Multilingual</text>
+    </g>
+
+    <!-- Action Button Pill -->
+    <g transform="translate(0, 96)">
+      <rect width="135" height="28" rx="4" fill="#222222" stroke="#444444" stroke-width="1" />
+      <text x="67" y="18" fill="#FFFFFF" class="font-sans" font-weight="700" font-size="11" text-anchor="middle">★ View on GitHub</text>
     </g>
   </g>
 
   <!-- Netflix Progress Bar (Bottom) -->
-  <rect x="0" y="224" width="410" height="6" fill="#333333" />
-  <rect x="0" y="224" width="310" height="6" fill="#E50914" />
+  <rect x="0" y="229" width="410" height="6" fill="#333333" />
+  <rect x="0" y="229" width="310" height="6" fill="#E50914" />
 </svg>

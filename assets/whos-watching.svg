@@ -1,6 +1,6 @@
-<svg width="850" height="185" viewBox="0 0 850 185" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="185" viewBox="0 0 800 185" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="avatar-bg" x1="0" y1="0" x2="850" y2="185" gradientUnits="userSpaceOnUse">
+    <linearGradient id="avatar-bg" x1="0" y1="0" x2="800" y2="185" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#111111" />
       <stop offset="100%" stop-color="#141414" />
     </linearGradient>
@@ -12,15 +12,14 @@
   </style>
 
   <!-- Container Box -->
-  <rect width="850" height="185" rx="10" fill="url(#avatar-bg)" stroke="#262626" stroke-width="1" />
+  <rect width="800" height="185" rx="10" fill="url(#avatar-bg)" stroke="#262626" stroke-width="1" />
 
   <!-- Section Title -->
-  <text x="425" y="36" fill="#FFFFFF" class="font-heavy" font-size="22" text-anchor="middle" letter-spacing="1">Who's Watching?</text>
+  <text x="400" y="36" fill="#FFFFFF" class="font-heavy" font-size="22" text-anchor="middle" letter-spacing="1">Who's Watching?</text>
 
   <!-- Profile 1: Founder (Red) -->
-  <g transform="translate(130, 55)">
+  <g transform="translate(110, 55)">
     <rect width="80" height="80" rx="8" fill="#E50914" />
-    <!-- Classic Netflix smiley face -->
     <circle cx="28" cy="30" r="5" fill="#FFFFFF" />
     <circle cx="52" cy="30" r="5" fill="#FFFFFF" />
     <path d="M 24 50 Q 40 64 56 50" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" fill="none" />
@@ -29,11 +28,10 @@
   </g>
 
   <!-- Profile 2: Builder / CS Engineer (Cyan) -->
-  <g transform="translate(295, 55)">
+  <g transform="translate(270, 55)">
     <rect width="80" height="80" rx="8" fill="#0080FF" />
     <circle cx="28" cy="30" r="5" fill="#FFFFFF" />
     <circle cx="52" cy="30" r="5" fill="#FFFFFF" />
-    <!-- Glasses -->
     <rect x="20" y="24" width="16" height="12" rx="2" fill="none" stroke="#FFFFFF" stroke-width="2" />
     <rect x="44" y="24" width="16" height="12" rx="2" fill="none" stroke="#FFFFFF" stroke-width="2" />
     <line x1="36" y1="30" x2="44" y2="30" stroke="#FFFFFF" stroke-width="2" />
@@ -43,11 +41,10 @@
   </g>
 
   <!-- Profile 3: Student (Purple) -->
-  <g transform="translate(460, 55)">
+  <g transform="translate(430, 55)">
     <rect width="80" height="80" rx="8" fill="#8B5CF6" />
     <circle cx="28" cy="30" r="5" fill="#FFFFFF" />
     <circle cx="52" cy="30" r="5" fill="#FFFFFF" />
-    <!-- Graduation Cap hint -->
     <path d="M 40 12 L 62 20 L 40 28 L 18 20 Z" fill="#FFFFFF" opacity="0.9" />
     <path d="M 26 50 Q 40 62 54 50" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" fill="none" />
     <text x="40" y="100" fill="#E5E5E5" class="font-sans" font-weight="700" font-size="13" text-anchor="middle">Student</text>
@@ -55,7 +52,7 @@
   </g>
 
   <!-- Profile 4: Researcher (Amber) -->
-  <g transform="translate(625, 55)">
+  <g transform="translate(590, 55)">
     <rect width="80" height="80" rx="8" fill="#D97706" />
     <circle cx="28" cy="30" r="5" fill="#FFFFFF" />
     <circle cx="52" cy="30" r="5" fill="#FFFFFF" />

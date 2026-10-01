@@ -1,6 +1,6 @@
-<svg width="830" height="150" viewBox="0 0 830 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="145" viewBox="0 0 800 145" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="st-bg" x1="0" y1="0" x2="830" y2="150" gradientUnits="userSpaceOnUse">
+    <linearGradient id="st-bg" x1="0" y1="0" x2="800" y2="145" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#141414" />
       <stop offset="100%" stop-color="#181818" />
     </linearGradient>
@@ -9,54 +9,54 @@
   <style>
     .font-heavy { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 800; }
     .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
-    .stat-val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 900; font-size: 26px; fill: #FFFFFF; }
-    .stat-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #888888; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+    .stat-val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 900; font-size: 24px; fill: #FFFFFF; }
+    .stat-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 10.5px; fill: #888888; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
   </style>
 
   <!-- Base -->
-  <rect width="830" height="150" rx="8" fill="url(#st-bg)" stroke="#2b2b2b" stroke-width="1" />
+  <rect width="800" height="145" rx="8" fill="url(#st-bg)" stroke="#2b2b2b" stroke-width="1" />
 
   <!-- Title -->
-  <g transform="translate(24, 25)">
-    <text x="0" y="0" fill="#E50914" class="font-heavy" font-size="12" letter-spacing="2">BOX OFFICE &amp; RATINGS DASHBOARD</text>
+  <g transform="translate(24, 24)">
+    <text x="0" y="0" fill="#E50914" class="font-heavy" font-size="11.5" letter-spacing="2">BOX OFFICE &amp; RATINGS DASHBOARD</text>
   </g>
 
-  <!-- 4 Stat Columns -->
+  <!-- 4 Stat Columns with Generous Margins -->
   <!-- Col 1: Repos -->
-  <g transform="translate(50, 60)">
+  <g transform="translate(35, 55)">
     <text x="0" y="24" class="stat-val">36+</text>
     <text x="0" y="44" class="stat-label">Total Productions</text>
-    <rect x="0" y="54" width="40" height="3" fill="#E50914" rx="1.5" />
+    <rect x="0" y="54" width="36" height="3" fill="#E50914" rx="1.5" />
   </g>
 
-  <!-- Divider -->
-  <line x1="220" y1="50" x2="220" y2="120" stroke="#2a2a2a" stroke-width="1" />
+  <!-- Divider 1 -->
+  <line x1="205" y1="50" x2="205" y2="118" stroke="#262626" stroke-width="1" />
 
   <!-- Col 2: Research Papers -->
-  <g transform="translate(260, 60)">
+  <g transform="translate(225, 55)">
     <text x="0" y="24" class="stat-val" fill="#E50914">1</text>
-    <text x="25" y="24" class="stat-val" font-size="15" fill="#46D369">★ Elsevier</text>
+    <text x="22" y="24" class="stat-val" font-size="14" fill="#46D369">★ Elsevier</text>
     <text x="0" y="44" class="stat-label">Peer-Reviewed Paper</text>
-    <rect x="0" y="54" width="40" height="3" fill="#E50914" rx="1.5" />
+    <rect x="0" y="54" width="36" height="3" fill="#E50914" rx="1.5" />
   </g>
 
-  <!-- Divider -->
-  <line x1="440" y1="50" x2="440" y2="120" stroke="#2a2a2a" stroke-width="1" />
+  <!-- Divider 2 -->
+  <line x1="400" y1="50" x2="400" y2="118" stroke="#262626" stroke-width="1" />
 
   <!-- Col 3: Audience Match -->
-  <g transform="translate(480, 60)">
+  <g transform="translate(420, 55)">
     <text x="0" y="24" class="stat-val" fill="#46D369">99%</text>
     <text x="0" y="44" class="stat-label">Critical Match Score</text>
-    <rect x="0" y="54" width="40" height="3" fill="#46D369" rx="1.5" />
+    <rect x="0" y="54" width="36" height="3" fill="#46D369" rx="1.5" />
   </g>
 
-  <!-- Divider -->
-  <line x1="640" y1="50" x2="640" y2="120" stroke="#2a2a2a" stroke-width="1" />
+  <!-- Divider 3 -->
+  <line x1="590" y1="50" x2="590" y2="118" stroke="#262626" stroke-width="1" />
 
   <!-- Col 4: Top Tech -->
-  <g transform="translate(670, 60)">
-    <text x="0" y="24" class="stat-val" font-size="20">Next &amp; React</text>
+  <g transform="translate(610, 55)">
+    <text x="0" y="24" class="stat-val" font-size="18">Next &amp; React</text>
     <text x="0" y="44" class="stat-label">Primary Stack</text>
-    <rect x="0" y="54" width="40" height="3" fill="#E50914" rx="1.5" />
+    <rect x="0" y="54" width="36" height="3" fill="#E50914" rx="1.5" />
   </g>
 </svg>
