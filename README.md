@@ -107,6 +107,27 @@
 
 ---
 
+## 🏆 Critically Acclaimed: Peer-Reviewed Publication
+
+<div align="center">
+  <h3>📄 A Deep Learning-Based Performance-Oriented Approach for Diabetic Foot Ulcer Identification and Localization Using Faster R-CNN</h3>
+  <p><strong>Published in:</strong> <em>In Silico Research in Biomedicine (Elsevier / ScienceDirect)</em></p>
+
+  <p>
+    <a href="https://www.sciencedirect.com/science/article/pii/S3050787126000314" target="_blank">
+      <img src="https://img.shields.io/badge/READ_ON-ScienceDirect-E50914?style=for-the-badge&logo=elsevier&logoColor=white" alt="ScienceDirect Paper" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/PEER_REVIEWED-Elsevier-222222?style=for-the-badge" alt="Elsevier" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/RESEARCH-Biomedical_AI-222222?style=for-the-badge" alt="AI Research" />
+  </p>
+</div>
+
+> **Abstract Focus:** Co-authored clinical AI research investigating optimized deep convolutional neural network architectures (Faster R-CNN) for high-precision identification, bounding-box localization, and automated diagnostics of Diabetic Foot Ulcers (DFUs).
+
+---
+
 ## ⚡ Cast & Production Equipment (Tech Stack)
 
 <div align="center">
