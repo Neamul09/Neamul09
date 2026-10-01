@@ -5,23 +5,23 @@
 <br/><br/>
 
 <a href="https://github.com/Neamul09">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=30&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&random=false&width=650&height=50&lines=NEON+ORIGINAL+%E2%80%A2+NOW+STREAMING;FOUNDER+%40+CHOLOSIKHI;ASPIRING+CS+ENGINEER+%26+BUILDER;WEB+%26+MOBILE+DEVELOPER;DUOLINGO-STYLE+GAMIFIED+CODING" alt="Netflix Style Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=32&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&random=false&width=650&height=50&lines=NEON+ORIGINAL+%E2%80%A2+NOW+STREAMING;FOUNDER+%40+CHOLOSIKHI;ASPIRING+CS+ENGINEER+%26+BUILDER;WEB+%26+MOBILE+DEVELOPER;DUOLINGO-STYLE+GAMIFIED+CODING" alt="Netflix Style Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔴_MATCH-99%25-E50914?style=flat-square" alt="Match" />
-  <img src="https://img.shields.io/badge/YEAR-2026-333333?style=flat-square" alt="Year" />
-  <img src="https://img.shields.io/badge/RATING-TV--MA_(Master_of_Apps)-333333?style=flat-square" alt="Rating" />
-  <img src="https://img.shields.io/badge/QUALITY-ULTRA_HD_4K-E50914?style=flat-square" alt="Quality" />
-  <img src="https://img.shields.io/badge/GENRE-EDTECH_%7C_FULL--STACK-333333?style=flat-square" alt="Genre" />
+  <img src="https://img.shields.io/badge/MATCH-99%25-E50914?style=flat-square" alt="Match" />
+  <img src="https://img.shields.io/badge/RELEASE-2026-222222?style=flat-square" alt="Year" />
+  <img src="https://img.shields.io/badge/RATING-TV--MA-E50914?style=flat-square" alt="Rating" />
+  <img src="https://img.shields.io/badge/RESOLUTION-4K_ULTRA_HD-222222?style=flat-square" alt="Quality" />
+  <img src="https://img.shields.io/badge/SERIES-ORIGINAL-E50914?style=flat-square" alt="Original" />
 </p>
 
 ### 📺 Who's Watching?
 <p align="center">
-  <a href="https://cholosikhi.com"><img src="https://img.shields.io/badge/%5B🔴_Neon%5D-Founder_%40_CholoSikhi-E50914?style=for-the-badge" alt="Founder" /></a>
-  <a href="https://github.com/Neamul09"><img src="https://img.shields.io/badge/%5B⚡_Neon%5D-Aspiring_CS_Engineer-222222?style=for-the-badge" alt="Engineer" /></a>
-  <a href="https://github.com/Neamul09"><img src="https://img.shields.io/badge/%5B🎓_Neon%5D-New_Govt._Degree_College-222222?style=for-the-badge" alt="Student" /></a>
-  <a href="https://www.linkedin.com/in/neamul-morshed"><img src="https://img.shields.io/badge/%5B💼_Neon%5D-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://cholosikhi.com"><img src="https://img.shields.io/badge/NEON-Founder_%40_CholoSikhi-E50914?style=for-the-badge" alt="Founder" /></a>
+  <a href="https://github.com/Neamul09"><img src="https://img.shields.io/badge/ROLE-Aspiring_CS_Engineer-222222?style=for-the-badge" alt="Engineer" /></a>
+  <a href="https://github.com/Neamul09"><img src="https://img.shields.io/badge/CAMPUS-New_Govt._Degree_College-222222?style=for-the-badge" alt="Student" /></a>
+  <a href="https://www.linkedin.com/in/neamul-morshed"><img src="https://img.shields.io/badge/NETWORK-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -36,13 +36,13 @@
 
   <p>
     <a href="https://cholosikhi.com">
-      <img src="https://img.shields.io/badge/▶_PLAY_PLATFORM-cholosikhi.com-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Platform" />
+      <img src="https://img.shields.io/badge/LAUNCH_PLATFORM-cholosikhi.com-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Platform" />
     </a>
     <a href="https://py.cholosikhi.com">
-      <img src="https://img.shields.io/badge/ℹ_MORE_INFO-py.cholosikhi.com-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="More Info" />
+      <img src="https://img.shields.io/badge/LEARNING_APP-py.cholosikhi.com-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="More Info" />
     </a>
     <a href="https://github.com/Neamul09/cholosikhi">
-      <img src="https://img.shields.io/badge/📦_SOURCE_CODE-GitHub_Repo-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
+      <img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
     </a>
   </p>
 </div>
@@ -141,22 +141,19 @@
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Neamul09&show_icons=true&hide_border=false&bg_color=141414&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=333333" alt="Netflix Themed Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neamul09&layout=compact&hide_border=false&bg_color=141414&title_color=E50914&text_color=FFFFFF&border_color=333333" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neamul09&show_icons=true&hide_border=false&bg_color=141414&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=333333" alt="Netflix Themed Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neamul09&layout=compact&hide_border=false&bg_color=141414&title_color=E50914&text_color=FFFFFF&border_color=333333" alt="Top Languages" />
+</p>
 
 <br/>
 
 ### 🐍 Daily Episode Stream (Commit Activity)
 
-<img src="https://raw.githubusercontent.com/Neamul09/Neamul09/output/github-contribution-grid-snake-dark.svg" alt="Daily Commit Stream" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neamul09/Neamul09/output/github-contribution-grid-snake-dark.svg" alt="Daily Commit Stream" />
+</p>
 
 </div>
 
@@ -170,16 +167,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neamul-morshed" target="_blank">
-    <img src="https://img.shields.io/badge/▶_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://cholosikhi.com" target="_blank">
-    <img src="https://img.shields.io/badge/▶_VISIT_CHOLOSIKHI-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CholoSikhi" />
+    <img src="https://img.shields.io/badge/STREAM-CholoSikhi.com-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CholoSikhi" />
   </a>
   <a href="mailto:neamulmorshed@gmail.com">
-    <img src="https://img.shields.io/badge/▶_SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/MESSAGE-neamulmorshed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Neamul09">
-    <img src="https://img.shields.io/badge/▶_GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/FOLLOW-Neamul09-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
