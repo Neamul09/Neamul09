@@ -35,14 +35,12 @@
   <p><strong>Season 1 • Now Streaming Worldwide • Interactive Gamified Learning</strong></p>
 
   <p>
-    <a href="https://cholosikhi.com">
-      <img src="https://img.shields.io/badge/LAUNCH_PLATFORM-cholosikhi.com-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Platform" />
+    <a href="https://cholosikhi.com" target="_blank">
+      <img src="https://img.shields.io/badge/LAUNCH_PLATFORM-cholosikhi.com-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch Platform" />
     </a>
-    <a href="https://py.cholosikhi.com">
-      <img src="https://img.shields.io/badge/LEARNING_APP-py.cholosikhi.com-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="More Info" />
-    </a>
-    <a href="https://github.com/Neamul09/cholosikhi">
-      <img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
+    &nbsp;
+    <a href="https://py.cholosikhi.com" target="_blank">
+      <img src="https://img.shields.io/badge/LEARNING_APP-py.cholosikhi.com-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Learning App" />
     </a>
   </p>
 </div>
